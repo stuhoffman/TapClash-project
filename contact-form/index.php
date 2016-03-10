@@ -80,7 +80,7 @@
 					footer			: {
 						add		: true,
 						update	: true,
-						title	: 'Last update: 3/9/16'
+						title	: 'Last update: 3/10/16'
 					}
 				});
 			});
