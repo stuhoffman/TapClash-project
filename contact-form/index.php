@@ -156,7 +156,7 @@
 		<nav id="affero-menu">
 			<div>
 				<a class="affero-site-link" href="https://stuhoffman.github.io/TapClash-project/"><img src="../rw_common/images/TapClash-site-logo3.jpg" width="192" height="192" alt="Site logo"/><h1>Apps by STFHS</h1></a>
-				<ul><li><a href="../" rel="">Home</a></li><li><a href="../blog/" rel="">Blog</a></li><li><a href="../styled/" rel="">Other-Pages</a><ul><li><a href="../styled/photos/" rel="">Album</a></li><li><a href="../styled/code/" rel="">Sub-Pages</a><ul><li><a href="../styled/code/styled-2/" rel="">Page 1</a></li><li><a href="../styled/code/styled-4/" rel="">Page 2</a></li><li><a href="../styled/code/styled-3/" rel="">Page 3</a></li></ul></li></ul></li><li><a href="./" rel="" class="affero-current-page">Contact</a></li></ul>
+				<ul><li><a href="../" rel="">Home</a></li><li><a href="./" rel="" class="affero-current-page">Contact</a></li></ul>
 				<aside>
 					<h2 class="affero-sidebar-title">Sidebar</h2>
 					<span style="font-size:14px; color:#909090;">Lorem ipsum dolor sit amet, sapien platea morbi dolor lacus nunc, nunc ullamcorper. Felis aliquet egestas vitae, nibh ante quis quis dolor sed mauris. Erat lectus sem ut lobortis, adipiscing ligula eleifend, sodales fringilla mattis dui nullam. Ac massa aliquet.</span>
